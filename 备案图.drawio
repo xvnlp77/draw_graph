@@ -117,28 +117,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vioO3jdRLNqgJ97knUN3-8" value="base模型" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="10" y="896" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="883" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vioO3jdRLNqgJ97knUN3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vioO3jdRLNqgJ97knUN3-9" target="vioO3jdRLNqgJ97knUN3-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vioO3jdRLNqgJ97knUN3-9" value="SFT" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="200" y="896" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="883" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vioO3jdRLNqgJ97knUN3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vioO3jdRLNqgJ97knUN3-10" target="vioO3jdRLNqgJ97knUN3-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vioO3jdRLNqgJ97knUN3-10" value="RL" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="540" y="896" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="883" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vioO3jdRLNqgJ97knUN3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vioO3jdRLNqgJ97knUN3-11" target="vioO3jdRLNqgJ97knUN3-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vioO3jdRLNqgJ97knUN3-11" value="base模型" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="370" y="896" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="883" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vioO3jdRLNqgJ97knUN3-15" value="微调模型" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="690" y="896" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="883" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vioO3jdRLNqgJ97knUN3-22" value="拒绝采样" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="285" y="728" width="70" height="30" as="geometry" />
